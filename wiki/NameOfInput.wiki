@@ -1,0 +1,24 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+Estandar de nombres de los objetos de un formulario
+
+
+= Details =
+
+textfield = txt_apellidos , txt_nombres, txt_fechaNacimiento
+
+radiobutton= rbn_genero
+(Si pertenecen a un mismo grupo tienen el mismo nombre, 
+la diferencia esta en el value)
+
+checkbox = chb_intereses
+(Si pertenecen a un mismo grupo tienen el mismo nombre, 
+la diferencia esta en el value)
+
+select = sel_pais
+
+textarea = txa_comentario
+
+
