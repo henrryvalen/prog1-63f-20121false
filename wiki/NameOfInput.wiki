@@ -21,4 +21,4 @@ select = sel_pais
 
 textarea = txa_comentario
 
-
+button = btn_registrar
