@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Nombre de las paginas JSP
 
 = Introduction =
 
@@ -16,5 +16,3 @@ index.jsp
 registroAlumno.jsp
 
 listarProductos.jsp
-
-
