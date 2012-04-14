@@ -1,0 +1,33 @@
+#summary CreacionTablas.
+
+= Introduction =
+
+Creacion Tablas
+
+
+= Details =
+
+
+La creacion de tablas sigue el siguiente standar:
+
+
+t_nombreEntidad
+
+
+Las columnas siempre se componen de las 3 primeras letras de la palabra
+
+
+fechaNacimiento = fecnac = fec_nac
+
+
+Tipos de datos de JAVA con MYSQL
+
+String = VARCHAR(15)
+
+String(1) = CHAR
+
+java.util.Date = DATE = DATETIME
+
+Integer = INTEGER
+
+Double = DOUBLE
