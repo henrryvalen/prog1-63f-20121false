@@ -31,3 +31,6 @@ java.util.Date = DATE = DATETIME
 Integer = INTEGER
 
 Double = DOUBLE
+
+
+Autoincremento en MYSQL es un numero secuencial entero de 1-N
