@@ -13,4 +13,4 @@ El servicio de MYSQL se ve en services.msc (Se ven todos los servicios incluyend
 La clase del Driver com.mysql.jdbc.Driver
 
 
-La url jdbc:mysql://<ip>:3306/<basedatos>
+La url jdbc:mysql://ip:3306/basedatos
